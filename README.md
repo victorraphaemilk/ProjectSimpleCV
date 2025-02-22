@@ -50,3 +50,4 @@ Acesse o CV Online: [victor-raphael-cv.vercel.app](https://victor-raphael-cv.ver
 ---
 
 📌 Projeto baseado em [roadmap.sh](https://roadmap.sh/projects/single-page-cv).
+https://roadmap.sh/projects/single-page-cv
